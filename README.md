@@ -11,7 +11,6 @@ Hi, I'm Harshit 👋<br>A student and full-stack web developer passionate about 
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Harshit-HK&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Harshit-HK&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-HK&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
