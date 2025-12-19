@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi, I'm Harshit 👋<br>A student and full-stack web developer passionate about building modern, clean, and scalable web apps. I love working with React, Node.js, and exploring new technologies every day.
 
+## 🔗 Portfolio
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-topaz-zeta-74.vercel.app/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-hk/)
